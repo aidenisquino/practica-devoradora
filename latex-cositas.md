@@ -1,8 +1,3 @@
-¡Por supuesto! Es una idea genial. Tener unos apuntes limpios les va a salvar mucho tiempo cuando estén escribiendo sus documentos finales. 
-
-Aquí tienen un resumen estructurado con todo lo que hemos explorado hasta ahora, listo para que lo copien y peguen en su documento de notas:
-
----
 
 ## 📝 Resumen de Aprendizaje: Fundamentos y Diseño en LaTeX
 

@@ -114,3 +114,15 @@ packages:
 
 - fontawesome: permite añadir símbolos de diferentes empresas o dibujitos que permiten hacer el texto más cool
 - tikz: permite crear elementos gráficos mediante vectores
+
+## Comandos de Citación
+|center|center|center|
+|------|------|------|
+|Comandos Principales| Resultado (Estilo APA) | Uso Sugerido
+|\cite{llave} | Autor (Año) | Uso general: Para menciones directas en el texto.
+|\textcite{llave} | Autor (Año) | Narrativo: Cuando el autor es el sujeto de la oración.|
+|\parencite{llave} | (Autor, Año) | Parentético: Para referencias al final de una idea o párrafo.|
+|\footcite{llave} | ^[1] | Nota al pie: Coloca la referencia en la base de la página.|
+|\citeauthor{llave} | Autor | Autor solo: Para mencionar el nombre sin el año.|
+|\citeyear{llave} | Año | Año solo: Útil si ya mencionaste al autor previamente.|
+|\nocite{llave} | (Invisible) | Inclusión forzada: Añade la obra a la lista final sin citarla.|
